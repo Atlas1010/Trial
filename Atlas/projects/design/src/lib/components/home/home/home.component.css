@@ -1,0 +1,15 @@
+body{
+    direction: rtl;
+}
+ p{
+display: inline-block;
+font-weight: 900;
+font-style: italic;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 5rem;
+color: blue;
+color-adjust: initial;
+scrollbar-color: initial;
+text-align: center;
+}   
+
